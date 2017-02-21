@@ -2,8 +2,10 @@ configuration:
 projectname: configserver
 server:
  port:8888
-profile:
+profiles:
  env:dev
+ label: v1
+version: v1
 message:
  greeting:hello spring cloud config
  
