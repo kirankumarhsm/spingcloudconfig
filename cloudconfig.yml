@@ -1,5 +1,5 @@
 configuration:
-projectname: configserver
+projectname: test
 server:
  port:8888
 profiles:
